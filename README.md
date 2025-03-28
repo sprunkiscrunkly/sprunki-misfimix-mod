@@ -1,6 +1,6 @@
 # Sprunki Misfimix Mod: The Ultimate Creature Fusion Experience
 
-![Sprunki Misfimix Mod Banner](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-misfimix-mod/main/assets/sprunki-misfimix-mod.png "Discover the World of Sprunki Misfimix Mod")
+![Sprunki Misfimix Mod Banner](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-misfimix-mod/refs/heads/main/sprunki-misfimix-mod.png "Discover the World of Sprunki Misfimix Mod")
 
 🔗 Play Now - Original Version: [Sprunki Misfimix Mod](https://sprunksters.com/sprunki-misfimix-mod/ "Official Sprunki Misfimix Mod")
 
